@@ -1,6 +1,6 @@
 <div align="center">
 
-# SaaS Maker
+<img src="https://raw.githubusercontent.com/SaaS-Maker-Stack/saas-maker/main/docs/assets/brand/logo-banner.png" alt="SaaS Maker" width="480">
 
 **Open-source starter for multi-tenant SaaS products — FastAPI + PostgreSQL backend, React 19 + shadcn/ui frontend, admin panel, Kamal deploys. Brand it, add your modules, ship.**
 
