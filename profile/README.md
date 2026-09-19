@@ -9,11 +9,13 @@
 
 Auth · organizations · roles · invitations · email verification · sessions · admin panel — done before you write a line
 
+**[saasmaker.willywg.com](https://saasmaker.willywg.com)** · [PyPI](https://pypi.org/project/saas-maker/) · [Skills](https://github.com/SaaS-Maker-Stack/skills)
+
 </div>
 
 ```bash
 uvx saas-maker new my-saas
-uvx saas-maker generate module invoice --fields "number:str,amount:float,due:date?" --status "draft,sent,paid"
+uvx saas-maker generate module invoice --fields "number:str,amount:money,due:date?" --status "draft,sent,paid"
 ```
 
 One command gives you three configured services (API, tenant app, admin panel), each
